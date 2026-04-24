@@ -1,6 +1,6 @@
 {
   "name": "@softwarebyricardo/nettrace-cli",
-  "version": "1.0.5",
+  "version": "1.0.1",
   "description": "NetTrace CLI - DNS, Email, Security & Spam Checks",
   "main": "index.js",
   "bin": {
