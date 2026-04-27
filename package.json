@@ -1,12 +1,12 @@
 {
-  "name": "@softwarebyricardo/nettrace-cli",
-  "version": "1.0.1",
+  "name": "@ricardoneudorfer/nettrace-cli",
+  "version": "1.0.0",
   "description": "NetTrace CLI - DNS, Email, Security & Spam Checks",
   "main": "index.js",
   "bin": {
     "nettrace": "index.js"
   },
-  "author": "Software By Ricardo <hello@softwarebyricardo.xyz>",
+  "author": "Ricardo Neudorfer <software.ricardo@explorericardo.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.2",
