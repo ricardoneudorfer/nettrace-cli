@@ -9,7 +9,7 @@ const readline = require('readline');
 const program = new Command()
   .name('nettrace')
   .description('NetTrace CLI')
-  .version('1.0.1')
+  .version('1.0.0')
 
 const API_BASE = 'https://api.nettrace.cloud/v1.0';
 const SPINNER_FRAMES = ['⠋', '⠙', '⠹', '⠸', '⠼', '⠴', '⠦', '⠧', '⠇', '⠏'];
