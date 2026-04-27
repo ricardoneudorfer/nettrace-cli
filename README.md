@@ -68,12 +68,12 @@ nettrace dns google.com MX | jq .
 | Dashboard | [nettrace.cloud](https://nettrace.cloud) |
 | Docs | [nettrace.cloud/docs](https://nettrace.cloud/docs) |
 | Pricing | [nettrace.cloud/pricing](https://nettrace.cloud/pricing) |
-| Status | [uptime.softwarebyricardo.xyz](https://uptime.softwarebyricardo.xyz) |
+| Status | [uptime.explorericardo.com](https://uptime.explorericardo.com) |
 
 ## Publisher
 
-**Software By Ricardo**  
-[softwarebyricardo.xyz](https://softwarebyricardo.xyz)  
-[hello@softwarebyricardo.xyz](mailto:hello@softwarebyricardo.xyz)
+**Ricardo Neudorfer**  
+[explorericardo.com](https://explorericardo.com/?developer_mode=1)  
+[software.ricardo@explorericardo.com](mailto:software.ricardo@explorericardo.com)
 
 © Software By Ricardo. MIT License.
