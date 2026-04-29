@@ -1,20 +1,40 @@
 {
-  "name": "@ricardoneudorfer/nettrace-cli",
+  "name": "nettrace-cli",
   "version": "1.0.0",
-  "description": "NetTrace CLI - DNS, Email, Security & Spam Checks",
+  "description": "A simple CLI tool for network tracing and geolocation lookup",
   "main": "index.js",
   "bin": {
-    "nettrace": "index.js"
+    "nettrace": "./index.js"
   },
-  "author": "Ricardo Neudorfer <software.ricardo@explorericardo.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "network",
+    "trace",
+    "geolocation",
+    "cli",
+    "networking",
+    "traceroute",
+    "ping"
+  ],
+  "author": "Ricardo Neudorfer",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.7.2",
-    "chalk": "^4.1.2",
-    "commander": "^12.1.0",
-    "form-data": "^4.0.0"
+    "axios": "1.15.1",
+    "chalk": "5.3.0",
+    "commander": "12.0.0"
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardoneudorfer/nettrace-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ricardoneudorfer/nettrace-cli/issues"
+  },
+  "homepage": "https://github.com/ricardoneudorfer/nettrace-cli#readme"
 }
