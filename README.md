@@ -5,7 +5,7 @@ Professional DNS propagation, email validation, security audits & blacklist moni
 ## Installation
 
 ```bash
-npm install -g @ricardoneudorfer/nettrace-cli
+npm install -g @softwarebyricardo/nettrace-cli
 ```
 
 ## Quick Start
@@ -76,4 +76,4 @@ nettrace dns google.com MX | jq .
 [explorericardo.com](https://explorericardo.com/?developer_mode=1)  
 [software.ricardo@explorericardo.com](mailto:software.ricardo@explorericardo.com)
 
-© Software By Ricardo. MIT License.
+© Ricardo Neudorfer. MIT License.
