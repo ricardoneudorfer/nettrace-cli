@@ -5,7 +5,7 @@ Professional DNS propagation, email validation, security audits & blacklist moni
 ## Installation
 
 ```bash
-npm install -g @softwarebyricardo/nettrace-cli
+npm install -g @ricardoneudorfer/nettrace-cli
 ```
 
 ## Quick Start
