@@ -5,7 +5,7 @@ Professional DNS propagation, email validation, security audits & blacklist moni
 ## Installation
 
 ```bash
-npm install -g @ricardoneudorfer/nettrace-cli
+npm install -g @quantix-foundation/nettrace-cli
 ```
 
 ## Quick Start
@@ -68,12 +68,12 @@ nettrace dns google.com MX | jq .
 | Dashboard | [nettrace.cloud](https://nettrace.cloud) |
 | Docs | [nettrace.cloud/docs](https://nettrace.cloud/docs) |
 | Pricing | [nettrace.cloud/pricing](https://nettrace.cloud/pricing) |
-| Status | [uptime.explorericardo.com](https://uptime.explorericardo.com) |
+| Status | [status.quantixfoundation.com](https://status.quantixfoundation.com) |
 
 ## Publisher
 
-**Ricardo Neudorfer**  
-[explorericardo.com](https://explorericardo.com/?developer_mode=1)  
-[software.ricardo@explorericardo.com](mailto:software.ricardo@explorericardo.com)
+**Quantix Foundation**  
+[quantixfoundation.com](https://quantixfoundation.com)  
+[hello@quantixfoundation.com](mailto:hello@quantixfoundation.com)
 
-© Ricardo Neudorfer. MIT License.
+© Quantix Foundation. MIT License.
